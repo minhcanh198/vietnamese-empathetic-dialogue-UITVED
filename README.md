@@ -1,2 +1,3 @@
 # vietnamese-empathetic-dialogue-UITVED
-My final project in UIT
+1. NGUYEN MINH CANH - 16521493
+2. TRAN THIEN TRONG - 16521541
